@@ -1,0 +1,15 @@
+C:\Users\jorge\source\repos\GraphPracticej\GraphPracticej\obj\Debug\net6.0\GraphPracticej.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\GraphPracticej\GraphPracticej\obj\Debug\net6.0\GraphPracticej.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\GraphPracticej\GraphPracticej\obj\Debug\net6.0\GraphPracticej.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\GraphPracticej\GraphPracticej\obj\Debug\net6.0\GraphPracticej.AssemblyInfo.cs
+C:\Users\jorge\source\repos\GraphPracticej\GraphPracticej\obj\Debug\net6.0\GraphPracticej.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\GraphPracticej\GraphPracticej\bin\Debug\net6.0\GraphPracticej.exe
+C:\Users\jorge\source\repos\GraphPracticej\GraphPracticej\bin\Debug\net6.0\GraphPracticej.deps.json
+C:\Users\jorge\source\repos\GraphPracticej\GraphPracticej\bin\Debug\net6.0\GraphPracticej.runtimeconfig.json
+C:\Users\jorge\source\repos\GraphPracticej\GraphPracticej\bin\Debug\net6.0\GraphPracticej.dll
+C:\Users\jorge\source\repos\GraphPracticej\GraphPracticej\bin\Debug\net6.0\GraphPracticej.pdb
+C:\Users\jorge\source\repos\GraphPracticej\GraphPracticej\obj\Debug\net6.0\GraphPracticej.dll
+C:\Users\jorge\source\repos\GraphPracticej\GraphPracticej\obj\Debug\net6.0\refint\GraphPracticej.dll
+C:\Users\jorge\source\repos\GraphPracticej\GraphPracticej\obj\Debug\net6.0\GraphPracticej.pdb
+C:\Users\jorge\source\repos\GraphPracticej\GraphPracticej\obj\Debug\net6.0\GraphPracticej.genruntimeconfig.cache
+C:\Users\jorge\source\repos\GraphPracticej\GraphPracticej\obj\Debug\net6.0\ref\GraphPracticej.dll
